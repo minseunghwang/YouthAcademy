@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="22eb3f1d-c6b6-4291-9a90-c46c58f1a434" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/dead.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/graph.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/graph2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/graph3.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/survivor.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/train_dead.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/train_survivor.csv" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1X63Mloaw6dYRF4Mk4pelmepTSo" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="22eb3f1d-c6b6-4291-9a90-c46c58f1a434" name="Default Changelist" comment="" />
+      <created>1580352670936</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580352670936</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="268" y="275" key="FileChooserDialogImpl" timestamp="1580353716636">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="268" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1580353716636" />
+    <state x="806" y="352" key="com.intellij.ide.util.TipDialog" timestamp="1580353734568">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="806" y="352" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1580353734568" />
+  </component>
+</project>
