@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="22eb3f1d-c6b6-4291-9a90-c46c58f1a434" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="22eb3f1d-c6b6-4291-9a90-c46c58f1a434" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,7 +18,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="D:/algorithm" />
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -48,13 +46,13 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="268" y="275" key="FileChooserDialogImpl" timestamp="1580353806758">
+    <state x="268" y="275" key="FileChooserDialogImpl" timestamp="1580688436097">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="268" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1580353806758" />
-    <state x="806" y="352" key="com.intellij.ide.util.TipDialog" timestamp="1580353799974">
+    <state x="268" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1580688436097" />
+    <state x="806" y="352" key="com.intellij.ide.util.TipDialog" timestamp="1580688414579">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="806" y="352" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1580353799974" />
+    <state x="806" y="352" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1580688414579" />
   </component>
 </project>
