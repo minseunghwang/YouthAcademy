@@ -1,0 +1,44 @@
+﻿// day11 자료 받기 
+1) 주피터 노트북 작업폴더에 자료받은거 복사 
+2) Book4_셀프주유소 Step1.ipynb
+
+작업 과정 
+1) 데이타 획득 : 셀레니움 xpath 
+http://www.opinet.co.kr/searRgSelect.do
+서울의 구별 주유소 정보 => 엑셀 
+엑셀 25개 
+2) glob 모듈을 이용해서 엑셀파일 25개를 함께 
+   불러서 데이타 프레임 생성 
+3) 시각화 
+
+// Book8 . 자연어처리 
+1) Book8 Step1. 자연어처리 파일을 Rename 해서 
+Book8 Step1. 자연어처리.ipynb 변경 
+2) 주피터노트북에서 열기 
+3) 설치
+ - pip install konlpy
+ - conda install -c conda-forge jpype1
+ - 자바 설치 확인하기 
+   [윈도우키]+[R] 
+   [실행]창에서 cmd 입력하기 
+   터미널창에서 java 입력후 명령 나오는지 확인 
+   자바 버전 확인 
+	java -version 
+ - 자바 JDK 설치하기  
+https://java.com/ko/download
+  설치시 주의사항 : 
+     c:\java8 폴더로 설치
+ - 환경변수 
+   윈도우탐색기 실행 후 [내pc] 마우스 우측버튼 [속성]클릭 
+   [고급시스템설정] 클릭
+   [환경변수] 클릭 
+   [시스템변수]에서 [새로만들기]
+     변수명은? JAVA_HOME
+     변수값은? 자바가설치된폴더기준 / D:\java8\bin
+   [사용자변수]에서 [Path] 클릭후 [편집]
+     [새로만들기] 클릭후 자바가설치된폴더기준
+        D:\java8\bin
+
+
+
+
