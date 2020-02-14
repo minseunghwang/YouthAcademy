@@ -1,0 +1,45 @@
+﻿// PPT와 프로젝트소스는 
+화요일날 강사 메일로 보내주시면 됩니다. 
+coderecipe@naver.com
+
+** PPT 시안의 주된 내용 
+(프로젝트에 맞추어서 구성하시면 됩니다.) 
+
+표제 - 메인이미지 및 제목,조이름
+목차 
+주제선정배경
+프로젝트 목표 
+일정 
+팀명, 팀원 소개및 역할분담
+데이타분석 (데이타 획득, 데이타탐색, 분석과정, 시각화, 분석결과...)
+데이타베이스 모델 (DB 모델, ERD 다이어그램 ...) 
+웹사이트 연동 (웹사이트 제작과정, 페이지 기능 소개, 배포 과정, 시연 ...) 
+사용도구 
+프롤로그 (프로젝트시 좋았던점 및 아쉬운점, 기대효과, 향후 과제... )
+Q&A
+
+** PPT 디자인 참조 
+- http://leehyekang.blogspot.com/search/label/template
+- http://pptbizcam.co.kr/?cat=2
+- https://blog.naver.com/seiru523
+- https://blog.naver.com/jee6959
+- http://magazine.bizforms.co.kr/view.asp?number=8022
+
+** 무료  이미지 사이트 안내 
+https://www.iconfinder.com/
+검색후 price를 Free로 지정하여 다운로드 
+
+https://pixabay.com
+
+https://www.freepik.com
+하루에 다운로드 받을 수 있는 이미지가 제한됨 
+일러스트 및 다양한 이미지 다운로드 가능 
+
+https://picjumbo.com/
+
+
+**  색상사이트 
+https://www.webdesignrankings.com/resources/lolcolors/
+https://www.colorcombos.com/
+https://www.design-seeds.com/
+
